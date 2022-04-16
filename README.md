@@ -2,10 +2,6 @@
   Oi! Eu sou o Arthur Piloto
 </h1>
 
-<div align="center">
-  <img align="center" alt="arthur-AVATAR" src="./img-avatar.png"/>
-</div>
-  
 - 🔭 Atualmente estudo Desenvolvimento de Sistemas no Senai
 - 🌱 Estou aprendendndo HTML, CSS e JavaScript
 
