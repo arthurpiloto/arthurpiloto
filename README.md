@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 Atualmente estudo Desenvolvimento de Sistemas no Senai
-- 🌱 Estou aprendendndo HTML, CSS e JavaScript
+- 🌱 Estou aprendendo HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/arthurpiloto">
