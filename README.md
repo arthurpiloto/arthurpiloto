@@ -17,6 +17,9 @@
   <img align="center" height="30" alt="arthur-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="30" alt="arthur-JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" height="30" alt="arthur-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" height="30" alt="arthur-ANDROID" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
+  <img align="center" height="30" alt="arthur-KOTLIN" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
+  <img align="center" height="30" alt="arthur-FIGMA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
   
 ##
