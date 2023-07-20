@@ -2,8 +2,6 @@
   Oi! Eu sou o Arthur Piloto
 </h1>
 
-- 🔭 Atualmente estudo Desenvolvimento de Sistemas no Senai
-
 <div align="center">
   <a href="https://github.com/arthurpiloto">
     <img width="400em" height="170em" src="https://github-readme-stats.vercel.app/api?username=arthurpiloto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
