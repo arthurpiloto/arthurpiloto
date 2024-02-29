@@ -1,27 +1,28 @@
-<h1 align="center">
-  Oi! Eu sou o Arthur Piloto
-</h1>
+---
 
 <div align="center">
   <a href="https://github.com/arthurpiloto">
-    <img width="400em" height="170em" src="https://github-readme-stats.vercel.app/api?username=arthurpiloto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img width="390em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpiloto&layout=compact&langs_count=7&theme=github_dark"/>
+    <img width="400em" height="170em" src="https://github-readme-stats.vercel.app/api?username=arthurpiloto&theme=github_dark"/>
+    <img width="390em" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpiloto&layout=compact&theme=github_dark"/>
   </a>
 </div>
- 
-<div align="center">
-  <img align="center" height="30" alt="arthur-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" alt="arthur-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" height="30" alt="arthur-JAVASCRIPT" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="30" alt="arthur-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" height="30" alt="arthur-ANDROID" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"/>
-  <img align="center" height="30" alt="arthur-KOTLIN" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
-  <img align="center" height="30" alt="arthur-FIGMA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</div>
-  
-##
 
-<div align="center">
+---
+
+### SKILLS:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=White&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+---
+
+### CONTACT:
+<div align="start">
   <a href = "mailto:arthurpiloto.github@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
